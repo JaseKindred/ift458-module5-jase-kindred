@@ -1,0 +1,12 @@
+{
+  "name": "middleware-lab",
+  "version": "1.0.0",
+  "description": "IFT 458 Module 5 Lab 1 - Using Git with VSCode",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
